@@ -21,3 +21,6 @@ The dungeon layout is loaded dynamically from a configuration file.
 
 ## Configuration File
 Reads an external file to set up rooms, monsters, and gameplay elements for flexible dungeon layouts.
+
+## Authors
+Bar Elhayani Ben-Gurion University — Advanced Programming Course
